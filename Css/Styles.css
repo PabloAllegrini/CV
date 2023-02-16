@@ -1,0 +1,24 @@
+body{
+    background-color: #EAF6F6
+}
+h1{
+    color: 	lightslategrey;font-style: oblique;font-size: 45px;
+}
+h3{
+color: lightslategrey;font-size: 25px;
+}
+
+hr{ 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:3%
+}
+a href{
+    text-size-adjust: 15px;border-color: black;
+}
+
+img{
+    border-radius: 100%;
+}
